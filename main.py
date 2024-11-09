@@ -212,7 +212,7 @@ while True:
                 player_info.restore()
                 break
     
-    elif fight_choice == 3:
+    elif fight_choice == 3: #exit game
         print("Exit")
         break    
     
